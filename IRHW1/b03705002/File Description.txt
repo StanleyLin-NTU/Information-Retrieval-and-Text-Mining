@@ -1,0 +1,10 @@
+A. Source Code(.py): 
+1.IRHW1.py:The program that outputs the tokens using the stop words provided by professor. Each token is divided by “\n”. The output file is “Output.txt”.2.IRHW1_nltk.py:The program that outputs the tokens using the stop words provided by nltk. Each token is divided by “\n”. The output file is “Output_nltk.txt”.
+3.download.py: The program is used for downloading nltk stop words.
+
+B.Text Files(.txt):
+1.paragraph.txt: The original paragraph provided by the professor.2.stoplist.txt: The stop words provided by the professor.3.Output.txt: The output of “IRHW1.py”, each token is divided by “\n”.4.Output_nltk.txt: The output of “IRHW1_nltk.py”, each token is divided by “\n”.
+
+
+C.Document
+A PDF version and a Word version of the document are provided.
