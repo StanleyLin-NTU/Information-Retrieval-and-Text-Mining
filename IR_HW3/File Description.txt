@@ -1,0 +1,9 @@
+A.	Source Code (.py): 
+1.	IRHW3.pyThe program that tokenize the documents, performing feature selection and multi-nominal Naïve Bayes classification. The output file is “B03705002.txt”, the classification result of testing documents.
+2.	download.pyThe program is used for downloading nltk stop words.
+B.	Text files:
+1.	x.txt ( x between 1-1095)The original 1095 paragraphs provided by the professor. These files are stored in the folder “IRTM”. 
+2.	class.txtStore the documents of each class. This is identical to the train data provided by the professor on ceiba.
+3.	B03705002.txtThe output of “IRHW3.py”, which is the classification result. The first column (before \t) is document id, the second column (after \t) is the class predicted after the classification. 
+C.Document
+A PDF version of the document is provided.
