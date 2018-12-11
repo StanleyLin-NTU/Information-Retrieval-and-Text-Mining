@@ -1,0 +1,17 @@
+A. Source Code(.py): 
+1. IRHW2_Dict_Vector.py:The program that tokenize the documents, calculating dfs, outputs “dictionary.txt”. After that, it calculated tf-idf values of documents and create “x.txt” under “Vectors” folder, where x is between 1 and 1095, which represents each document’s vector file. The output files “dictionary.txt” and “x.txt” are in the format required by the professor.2. cosine_similarity.py:The program calculates the cosine similarity between two specified documents using their vector files. It will print the value on the screen. The default output value is the cosine similarity between “1.txt” and “2.txt”, it can be changed by modifying the source code in the last line.
+3. download.py: The program is used for downloading nltk stop words.
+
+B.Text Files(.txt):
+1. IRTM (Folder):
+Contains x.txt (x between 1-1095), the original 1095 paragraphs provided by the professor. 2. dictionary.txt:
+The output of “IRHW2_Dict_Vector.py”, the dictionary file required in the assignment. 
+In each line, index, term, and df is divided by “/t”. 3. 1.txt:The output of “IRHW2_Dict_Vector.py”. 
+It is the vector file of document 1, which is required in the assignment. The first line is the number of terms of document, 
+and in each of the other lines, index and tf-idf is divided by “/t”.4.Vector_files:
+Contains the 1095 vector files of documents, can be used in cosine_similarity.py.The first line is the number of terms of document.
+In each of the other lines, index and tf-idf is divided by “/t”.
+
+
+C.Document
+A PDF version of the document is provided.
