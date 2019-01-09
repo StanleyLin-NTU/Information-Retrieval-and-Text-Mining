@@ -1,11 +1,12 @@
 # Information-Retrieval-and-Text-Mining
 Natural Language Processing, Text Mining and Information Retrieval.     
 
+Some slides of final presenataion:
+(Due to authority and privacy issues, only fews slides are shown in original language.)    
+
 Advisor: Prof. Chien-Chin Chen @NTUIM  
 Co-workers: Kai-Hsiang Huang, Sze-Chi Wang, Chin-Hua Chang, Tsung-You Hou @NTUIM  
-
-Some slides of final presenataion:
-(Due to authority and privacy issues, only fews slides are shown in original language.) 
+   
 ![img](https://github.com/StanleyLin-NTU/Information-Retrieval-and-Text-Mining/blob/master/IR%20Pics/IR%20Final_1.png)
 ![img](https://github.com/StanleyLin-NTU/Information-Retrieval-and-Text-Mining/blob/master/IR%20Pics/IR%20Final_2.png)
 ![img](https://github.com/StanleyLin-NTU/Information-Retrieval-and-Text-Mining/blob/master/IR%20Pics/IR%20Final_2.5.png)
