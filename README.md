@@ -1,5 +1,6 @@
 # Information-Retrieval-and-Text-Mining
-Natural Language Processing, Text Mining and Information Retrieval.  
+Natural Language Processing, Text Mining and Information Retrieval.     
+
 Advisor: Prof. Chien-Chin Chen @NTUIM  
 Co-workers: Kai-Hsiang Huang, Sze-Chi Wang, Chin-Hua Chang, Tsung-You Hou @NTUIM  
 
