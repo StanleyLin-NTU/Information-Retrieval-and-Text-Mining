@@ -2,7 +2,11 @@
 Natural Language Processing, Text Mining and Information Retrieval.     
 
 Some slides of final presenataion:
-(Due to authority and privacy issues, only fews slides are shown in original language.)    
+(Due to authority and privacy issues, only fews slides are shown.) 
+
+The project is related to Twitter's Sentiment Analysis based on Kaggle's contest.
+
+The sentiments are divided to 13 groups in raw data, and our aim is to maximize the accuracy to determine the correct sentiment.
 
 Advisor: Prof. Chien-Chin Chen @NTUIM  
 Co-workers: Kai-Hsiang Huang, Sze-Chi Wang, Chin-Hua Chang, Tsung-You Hou @NTUIM  
