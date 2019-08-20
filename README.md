@@ -7,11 +7,14 @@ Some slides of final presenataion:
 Advisor: Prof. Chien-Chin Chen @NTUIM  
 Co-workers: Kai-Hsiang Huang, Sze-Chi Wang, Chin-Hua Chang, Tsung-You Hou @NTUIM  
    
-![img](https://github.com/StanleyLin-NTU/Information-Retrieval-and-Text-Mining/blob/master/IR%20Pics/IR%20Final_1.png)
-![img](https://github.com/StanleyLin-NTU/Information-Retrieval-and-Text-Mining/blob/master/IR%20Pics/IR%20Final_2.png)
-![img](https://github.com/StanleyLin-NTU/Information-Retrieval-and-Text-Mining/blob/master/IR%20Pics/IR%20Final_2.5.png)
-![img](https://github.com/StanleyLin-NTU/Information-Retrieval-and-Text-Mining/blob/master/IR%20Pics/IR%20Final_2.6.png)
-![img](https://github.com/StanleyLin-NTU/Information-Retrieval-and-Text-Mining/blob/master/IR%20Pics/IR%20Final_3.png)
-![img](https://github.com/StanleyLin-NTU/Information-Retrieval-and-Text-Mining/blob/master/IR%20Pics/IR%20Final_4.png)
-![img](https://github.com/StanleyLin-NTU/Information-Retrieval-and-Text-Mining/blob/master/IR%20Pics/IR%20Final_8.png)
-![img](https://github.com/StanleyLin-NTU/Information-Retrieval-and-Text-Mining/blob/master/IR%20Pics/IR%20Final_fin.png)
+![img](https://github.com/StanleyLin-NTU/Information-Retrieval-and-Text-Mining/blob/master/IR Pics_Trans/1.png)
+![img](https://github.com/StanleyLin-NTU/Information-Retrieval-and-Text-Mining/blob/master/IR Pics_Trans/2.png)
+![img](https://github.com/StanleyLin-NTU/Information-Retrieval-and-Text-Mining/blob/master/IR Pics_Trans/3.png)
+![img](https://github.com/StanleyLin-NTU/Information-Retrieval-and-Text-Mining/blob/master/IR Pics_Trans/4.png)
+![img](https://github.com/StanleyLin-NTU/Information-Retrieval-and-Text-Mining/blob/master/IR Pics_Trans/5.png)
+![img](https://github.com/StanleyLin-NTU/Information-Retrieval-and-Text-Mining/blob/master/IR Pics_Trans/6.png)
+![img](https://github.com/StanleyLin-NTU/Information-Retrieval-and-Text-Mining/blob/master/IR Pics_Trans/7.png)
+![img](https://github.com/StanleyLin-NTU/Information-Retrieval-and-Text-Mining/blob/master/IR Pics_Trans/8.png)
+![img](https://github.com/StanleyLin-NTU/Information-Retrieval-and-Text-Mining/blob/master/IR Pics_Trans/9.png)
+![img](https://github.com/StanleyLin-NTU/Information-Retrieval-and-Text-Mining/blob/master/IR Pics_Trans/10.png)
+![img](https://github.com/StanleyLin-NTU/Information-Retrieval-and-Text-Mining/blob/master/IR Pics_Trans/11.png)
